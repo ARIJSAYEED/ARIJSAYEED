@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER — replace the src with your own Figma/Canva export -->
-<img src="https://your-banner-url-here.png" alt="Abdur Rahman — Junior Full Stack Developer" width="100%" style="border-radius:12px;" />
+<img src="https://raw.githubusercontent.com/ARIJSAYEED/ARIJSAYEED/main/github-cover.jpg" width="100%" style="border-radius:12px;" />
 
 <br/><br/>
 
