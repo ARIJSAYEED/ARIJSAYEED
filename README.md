@@ -32,7 +32,7 @@ Currently leveling up in **Next.js**, **TypeScript**, and advanced frontend anim
 ## Tech Stack
 
 ### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=react,js,nextjs,ts,html,css,tailwind)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=react,js,nextjs,html,css,tailwind)](https://skillicons.dev)
 
 ### Backend & Database
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)](https://skillicons.dev)
