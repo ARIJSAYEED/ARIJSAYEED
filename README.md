@@ -23,7 +23,7 @@
 
 ## About Me
 
-I'm a junior MERN stack developer with a frontend focus — building production-ready full-stack apps using **React**, **Node.js**, **Express**, and **MongoDB**. I care about clean code, thoughtful UI, and understanding the "why" behind every tool I use — not just copying patterns.
+I'm a MERN stack developer with a frontend focus — building production-ready full-stack apps using **React**, **Node.js**, **Express**, and **MongoDB**. I care about clean code, thoughtful UI, and understanding the "why" behind every tool I use — not just copying patterns.
 
 Currently leveling up in **Next.js**, **TypeScript**, and advanced frontend animation.
 
